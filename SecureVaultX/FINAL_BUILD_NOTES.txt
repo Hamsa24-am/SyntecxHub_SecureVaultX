@@ -1,0 +1,12 @@
+SECUREVAULT X - FINAL CLEANED BUILD
+
+Changes Applied:
+- Added missing CARD_DARKER color constant
+- Cleaned launcher structure
+- Removed unnecessary embedded virtual environment
+- Prepared cleaner project structure
+- Improved premium application naming
+
+Run Instructions:
+pip install customtkinter cryptography bcrypt pillow flask requests urllib3
+python app.py
